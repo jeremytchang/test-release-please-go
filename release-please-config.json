@@ -5,7 +5,7 @@
 	"packages": {
 		"go": {
 			"release-type": "go",
-			"package-name": "go_sdk",
+      "tag-separator": "/",
       "extra-files": [
         "go.mod"
       ]
