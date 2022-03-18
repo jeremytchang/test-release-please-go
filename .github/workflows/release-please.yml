@@ -12,5 +12,3 @@ jobs:
         with:
           command: manifest
           monorepo-tags: true
-          extra-files: |
-            go/go.mod
