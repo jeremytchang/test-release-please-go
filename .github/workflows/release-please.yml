@@ -12,7 +12,5 @@ jobs:
         with:
           command: manifest
           monorepo-tags: true
-          token: ${{ secrets.LOS_AUTO_BOT_RP_TOKEN }}
           extra-files: |
             go/go.mod
-
