@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.2](https://www.github.com/jeremytchang/test-release-please-go/compare/go-v2.0.1...go-v2.0.2) (2022-03-18)
+
+
+### Bug Fixes
+
+* lol ([dbd2220](https://www.github.com/jeremytchang/test-release-please-go/commit/dbd2220cc56e07c21f0f678058a60139d8ad4dc1))
+
 ### [2.0.1](https://www.github.com/jeremytchang/test-release-please-go/compare/go_sdk-v2.0.0...go_sdk-v2.0.1) (2022-03-18)
 
 
