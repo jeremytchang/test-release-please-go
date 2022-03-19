@@ -4,7 +4,7 @@
 	"bump-patch-for-minor-pre-major": true,
 	"packages": {
 		"go": {
-			"release-type": "go-yoshi",
+			"release-type": "go",
 			"package-name": "go",
 			"tag-separator": "test",
 			"extra-files": [
