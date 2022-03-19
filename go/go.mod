@@ -1,6 +1,6 @@
-// x-release-please-start-major
+// x-release-please-start-version
 
-module github.com/jeremytchang/test-release-please-go/go/v3
+module github.com/jeremytchang/test-release-please-go/go/v4.0.0
 // x-release-please-end
 
 go 1.14

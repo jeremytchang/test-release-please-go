@@ -6,7 +6,7 @@
 		"go": {
 			"release-type": "simple",
 			"package-name": "go",
-			"tag-separator": "///",
+			"tag-separator": "test",
 			"extra-files": [
 				"go/go.mod"
 			]
