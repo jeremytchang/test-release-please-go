@@ -4,11 +4,12 @@
 	"bump-patch-for-minor-pre-major": true,
 	"packages": {
 		"go": {
+			"release-type": "simple",
 			"package-name": "go",
-      "tag-separator": "///",
-      "extra-files": [
-        "go.mod"
-      ]
+			"tag-separator": "///",
+			"extra-files": [
+				"go/go.mod"
+			]
 		}
 	}
 }
