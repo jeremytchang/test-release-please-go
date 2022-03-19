@@ -8,7 +8,7 @@
 			"package-name": "go",
 			"tag-separator": "test",
 			"extra-files": [
-				"go/go.mod"
+				"go.mod"
 			]
 		}
 	}
