@@ -1,5 +1,16 @@
 # Changelog
 
+## [7.0.0](https://www.github.com/jeremytchang/test-release-please-go/compare/go-v6.0.0...go-v7.0.0) (2022-03-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* e
+
+### Bug Fixes
+
+* e ([ea0d97c](https://www.github.com/jeremytchang/test-release-please-go/commit/ea0d97c36a4b4e222f39d1bffb6a47b0ee5fe3b6))
+
 ## [6.0.0](https://www.github.com/jeremytchang/test-release-please-go/compare/go-v5.0.0...go-v6.0.0) (2022-03-19)
 
 
