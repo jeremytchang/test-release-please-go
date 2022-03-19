@@ -1,5 +1,16 @@
 # Changelog
 
+## [4.0.0](https://www.github.com/jeremytchang/test-release-please-go/compare/go-v3.0.0...go-v4.0.0) (2022-03-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* lol
+
+### Features
+
+* lol ([a0d680f](https://www.github.com/jeremytchang/test-release-please-go/commit/a0d680f8276b4f205412b5bb78cdb12b8124c8c8))
+
 ## [3.0.0](https://www.github.com/jeremytchang/test-release-please-go/compare/go-v2.2.0...go-v3.0.0) (2022-03-18)
 
 
