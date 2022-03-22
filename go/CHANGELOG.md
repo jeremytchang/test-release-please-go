@@ -1,5 +1,47 @@
 # Changelog
 
+## 1.0.0 (2022-03-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* w
+* p
+* lol
+* lol
+* lol
+* lol
+* e
+* wlol"
+* lol"
+* lol
+* lol
+
+### Features
+
+* a ([5e95f14](https://github.com/jeremytchang/test-release-please-go/commit/5e95f14c563186a2de53ea2e54134b62a81bef2b))
+* b ([552c978](https://github.com/jeremytchang/test-release-please-go/commit/552c978b2706761f5db281215a22030679c33012))
+* hello ([2c54c56](https://github.com/jeremytchang/test-release-please-go/commit/2c54c56fa2b3cf1fcf3ea0261e869be3f217ecf4))
+* lol ([6345ed6](https://github.com/jeremytchang/test-release-please-go/commit/6345ed6e51b6d4d8cb8a82701c4129dd247e3a0f))
+* lol ([0551d01](https://github.com/jeremytchang/test-release-please-go/commit/0551d01f7710cc7c511b8205c8239eb91bfa9119))
+* lol ([04710b8](https://github.com/jeremytchang/test-release-please-go/commit/04710b82b005cd1a2c28998d901bce0b6ebb6285))
+* lol ([f1db65b](https://github.com/jeremytchang/test-release-please-go/commit/f1db65bbbc96638c96553af57d0af2644ad57d2e))
+* lol ([a0d680f](https://github.com/jeremytchang/test-release-please-go/commit/a0d680f8276b4f205412b5bb78cdb12b8124c8c8))
+* lol ([3302a69](https://github.com/jeremytchang/test-release-please-go/commit/3302a69560b53e8b4c6501af5a8bd7f0ef94e44c))
+* lol" ([0a6be79](https://github.com/jeremytchang/test-release-please-go/commit/0a6be79f6f3b87e86990ab5747312ff3418c06bf))
+* p ([abfb5f6](https://github.com/jeremytchang/test-release-please-go/commit/abfb5f603cf564522eb4c731c51358e50f7c45f2))
+* w ([11417d3](https://github.com/jeremytchang/test-release-please-go/commit/11417d38a619ca55d04b1c9f424e215c7bc14f5e))
+* wlol" ([773e876](https://github.com/jeremytchang/test-release-please-go/commit/773e876580edc5994444fdbcd09947d2e786f42f))
+
+
+### Bug Fixes
+
+* a ([adc452b](https://github.com/jeremytchang/test-release-please-go/commit/adc452ba086d3005768ecc25baf74fca02cb6c88))
+* e ([ea0d97c](https://github.com/jeremytchang/test-release-please-go/commit/ea0d97c36a4b4e222f39d1bffb6a47b0ee5fe3b6))
+* lol ([dbd2220](https://github.com/jeremytchang/test-release-please-go/commit/dbd2220cc56e07c21f0f678058a60139d8ad4dc1))
+* test ([451f48a](https://github.com/jeremytchang/test-release-please-go/commit/451f48ad427ab9e8ac55602596150ce0a2e4f13d))
+* yup ([2d6c730](https://github.com/jeremytchang/test-release-please-go/commit/2d6c7306feaf26763f4fdcf0bba88c5d0576716d))
+
 ## [11.0.0](https://github.com/jeremytchang/test-release-please-go/compare/go/v10.0.0...go/v11.0.0) (2022-03-22)
 
 
