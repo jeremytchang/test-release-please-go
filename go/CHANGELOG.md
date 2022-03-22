@@ -1,5 +1,18 @@
 # Changelog
 
+## [10.0.0](https://github.com/jeremytchang/test-release-please-go/compare/go/v9.0.0...go/v10.0.0) (2022-03-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* lol
+* lol
+
+### Features
+
+* lol ([6345ed6](https://github.com/jeremytchang/test-release-please-go/commit/6345ed6e51b6d4d8cb8a82701c4129dd247e3a0f))
+* lol ([0551d01](https://github.com/jeremytchang/test-release-please-go/commit/0551d01f7710cc7c511b8205c8239eb91bfa9119))
+
 ## [9.0.0](https://github.com/jeremytchang/test-release-please-go/compare/go/v8.0.0...go/v9.0.0) (2022-03-22)
 
 
