@@ -1,3 +1,3 @@
-module github.com/jeremytchang/test-release-please-go/go/v4
+module github.com/jeremytchang/test-release-please-go/go
 
 go 1.14
